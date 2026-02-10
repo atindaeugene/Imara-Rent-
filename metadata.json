@@ -1,0 +1,7 @@
+{
+  "name": "ImaraRent - Property Management SaaS",
+  "description": "A comprehensive property management platform for recurring billing, automated rent collection via M-Pesa & Stripe, and tenant management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
